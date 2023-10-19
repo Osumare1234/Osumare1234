@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**osumare4199/osumare4199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Osumare1234/osumare4199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osumare4199&label=Profile%20views&color=0e75b6&style=flat" alt="osumare4199" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Osumare1234&label=Profile%20views&color=0e75b6&style=flat" alt="Osumare1234" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osumare4199" alt="osumare4199" /></a> </p>
 
