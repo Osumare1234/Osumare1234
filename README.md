@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+ <a href="https://www.shutterstock.com/image-vector/bangalore-india-26-september-2023-github-2366916413" /></a>
 <h1 align="center">Hi 👋, I'm Osumare Emmanuel</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
@@ -27,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/emmanuelbanky4" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuelbanky4?logo=twitter&style=for-the-badge" alt="emmanuelbanky4" /></a> </p>
 
-- 🌱 I’m currently learning **backend web development**
+- 🌱 I’m currently learning more on  **backend web development**
 
 - 💬 Ask me about **next js**
 
