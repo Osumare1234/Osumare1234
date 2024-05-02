@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  <a href="https://www.shutterstock.com/image-vector/bangalore-india-26-september-2023-github-2366916413" /></a>
 <h1 align="center">Hi 👋, I'm Osumare Emmanuel</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate full stack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osumare1234&label=Profile%20views&color=0e75b6&style=flat" alt="osumare1234" /> </p>
 
